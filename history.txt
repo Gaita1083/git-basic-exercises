@@ -1,0 +1,2153 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  xcode-select --install
+    3  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    5     echo '# Set PATH, MANPATH, etc., for Homebrew.' >> /Users/caswelranoto/.zprofile\n    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/caswelranoto/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+    6  echo $PATH
+    7  clear
+    8  brew --version
+    9  clear
+   10  brew update
+   11  clear
+   12  clear
+   13  brew tap homebrew/cask-version
+   14  tap brewhome/cask-version
+   15  tap homebrew/cask-version
+   16  clear
+   17  brew tap homebrew/cask-version
+   18  clear
+   19  brew tap homebrew/cask-version
+   20  clear
+   21  brew tap homebrew/cask-version
+   22  $javac Main.java
+   23  clear
+   24  Mai.java
+   25  clear
+   26  Main.java
+   27  clear
+   28  make hello
+   29  clear
+   30  clear
+   31  ls
+   32  clear
+   33  main cs50
+   34  clear
+   35  make cs50
+   36  ./cs50
+   37  rm cs50
+   38  ls
+   39  clear
+   40  PATH
+   41  clear
+   42  PATH
+   43  clear
+   44  ls
+   45  mkdir
+   46  clear
+   47  clear
+   48  netsh wlan show profile
+   49  clear
+   50  security find-generic-password-ga "Dylan" | grep "Password:"
+   51  netsh wlan show profile
+   52  make
+   53  ls
+   54  make survey form
+   55  make survey form
+   56  clear
+   57  npx create-react-app ./ 
+   58  clear
+   59   npx create-react-app ./
+   60  cleae
+   61  clear
+   62  cat /etc/shells
+   63  ls -a
+   64  nano .zprofile
+   65  nan0 .zprofile
+   66  nano .zprofile
+   67  cd .\backend_sanity\\nnpm create sanity@latest -- --coupon javascriptmastery2022
+   68  clear
+   69  cd .\backend_sanity\\nnpm create sanity@latest -- --coupon javascriptmastery2022
+   70  cd .\backend_sanity
+   71  cd backend_sanity
+   72  npm create sanity@latest -- --coupon javascriptmastery2022
+   73  cls
+   74  cl
+   75  clear
+   76  npm create sanity@latest -- --coupon javascriptmastery2022
+   77  npm create sanity@latest -- --coupon javascriptmastery2022
+   78  clear
+   79  npx create-react-app ./
+   80  npx create-react-app ./
+   81  npm start
+   82  npx create-react-app ./
+   83  npm start
+   84  npx create-react-app ./
+   85  clear
+   86  npm install react-icons
+   87  npm start
+   88  clear
+   89  clear
+   90  npm run build
+   91  npm create-react app
+   92  claer
+   93  clear
+   94  npm create-react-app
+   95  clear
+   96  npx create-react-app ./
+   97  clear
+   98  npx create-react-app
+   99  clear
+  100  npx create-react-app ./
+  101  clear
+  102  npm install react-icons
+  103  npm start
+  104  npm install -g gatsby-cli
+  105  npm styled-components
+  106  npm help
+  107  clear
+  108  npm start
+  109  npm start
+  110  npx create-react-app ./
+  111  clear
+  112  git --version
+  113  clear
+  114  npm install -g gatsby-cli
+  115  npm install -g gatsby-li
+  116  clear
+  117  npm start
+  118  npm start
+  119  npx create-react-app ./
+  120  cd
+  121  npm start
+  122  clear
+  123  npm install react-icons
+  124  npm install styled-components
+  125  npm install react-icons
+  126  npm start
+  127  npm run
+  128  clear
+  129  npm start
+  130    npm start
+  131  clear
+  132  cd
+  133  npx start
+  134  clear
+  135  npm start
+  136  npm start
+  137  npx create react-app
+  138  clear
+  139  npx create-react-app
+  140  clear
+  141  npx create-react-app ./
+  142  npm install react-icons
+  143  npm start
+  144  npm install --save react-router-dom
+  145  npm start
+  146  npm install styled-components
+  147  npm start
+  148  npm start
+  149  npm start
+  150  npm start
+  151  npm install --save @fortawesome/free-solid-svg-icons
+  152  npm install --save @fortawesome/react-fontawesome
+  153  npm start
+  154  npm start
+  155  npm i react-router-dom
+  156  npxcreate-react-app ./
+  157  clear
+  158  npx create-react-app
+  159  clear
+  160  npx create-react-app ./
+  161  clear
+  162  \nnpm install @syncfusion/ej2-react-grids --save
+  163  clear
+  164  npm install react-icons --save
+  165  npm audit
+  166  npm audit fix --force
+  167  npm start
+  168  npm
+  169  npm start
+  170  npm start
+  171  npm istall -g expo-cli
+  172  clear
+  173  npx create-expo-app
+  174  npm start
+  175  npm install
+  176  clear
+  177  npm run dev
+  178  npm start
+  179  npm run
+  180  clear
+  181  npm run dev
+  182  npm run dev
+  183  npm run dev
+  184  npm run dev
+  185  npm run dev
+  186  npm run dev
+  187  npm run dev
+  188  npm create refine-app@latest client
+  189  cd .\client\\nnpm install apexcharts react-apexcharts
+  190  clear
+  191  cd .\client\\n
+  192  clear
+  193  cd .\client
+  194  cd ./
+  195  cd ./client
+  196  cd -
+  197  cd ./refine_dashboard./client
+  198  clear
+  199  cd /refine_dashboard/client
+  200  clear
+  201  cd client
+  202  npm install apexcharts react-apexcharts
+  203  npm run dev
+  204  npm run dev
+  205  clear
+  206  npm run dev
+  207  npm run dev
+  208  clear
+  209  npm run dev
+  210  npx kill-port 3000
+  211  clear
+  212  npm run dev
+  213  npm run dev
+  214  clear
+  215  npm run dev
+  216  npm run dev
+  217  cd
+  218  npm run dev
+  219  ls
+  220  cd -
+  221  clear
+  222  npm run dev
+  223  npm run dev
+  224  clear
+  225  npm run dev
+  226  clear
+  227  npm run dev
+  228  npm run dev
+  229  clear
+  230  cd client
+  231  npm run dev
+  232  y
+  233  clear
+  234  security find-generic-password -wa "Dylan"
+  235  top
+  236  top -o rsize
+  237  uptime
+  238  brew install cmatrix
+  239  cmatrix
+  240  clear
+  241  brew --version
+  242  brew install --cask iterm2
+  243  clear
+  244  git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+  245  vim ~/.zshrc
+  246  git --version
+  247  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  248  cd ~/client
+  249  cd ~/refine_dashboard/client
+  250  clear
+  251  ls
+  252  cd ~/client
+  253  cd client
+  254  pwd
+  255  kill
+  256  clear
+  257  npm run dev
+  258  y
+  259  clear
+  260  cleae
+  261  clear
+  262  npm run dev
+  263  npm run refine update
+  264  clear
+  265  kill <process ID>\n
+  266  clear
+  267  Ctrl + C\n
+  268  clear
+  269  npm run dev
+  270  kill 1234
+  271  npm rundev
+  272  npm run dev
+  273  clear
+  274  npm run dev
+  275  ls
+  276  cd
+  277  npm run dev
+  278  ls
+  279  node -v
+  280  npm create vite@latest client --template vanilla
+  281  cd client
+  282  npm install
+  283  npm run dev
+  284  kill 1234
+  285  clear
+  286  cd client
+  287  cd ..
+  288  cd server
+  289  npm init -y
+  290  clear
+  291  npm install cors dotenv express nodemon openai
+  292  npm run server
+  293  cd server
+  294  npm run server
+  295  cd server
+  296  npm run server
+  297  cd server
+  298  npm run server
+  299  cd ..
+  300  cd client
+  301  npm run dev
+  302  cd ..
+  303  cd server
+  304  npm run server
+  305  cd server
+  306  npm run server
+  307  cd ..
+  308  cd client
+  309  npm run dev
+  310  git init
+  311  git add./
+  312  git add.
+  313  git add .
+  314  clear
+  315  cd ..
+  316  cd open_ai_codex
+  317  git init 
+  318  git add .
+  319  git commit -m "first commit"
+  320  git branch -M main
+  321  git remote add origin https://github.com/Gaita1083/openai_codex.git
+  322  git push -u origin main
+  323  git init
+  324  git add .
+  325  git commit -m "first commit"
+  326  cd ..
+  327  cd open_ai_codex
+  328  git init
+  329  git commit -m "first commit"
+  330  git init
+  331  git add .
+  332  git commit -m "first commit"
+  333  git branch -M main
+  334  git remote add origin https://github.com/Gaita1083/openai.git
+  335  git push -u origin main
+  336  git remote add origin https://github.com/Gaita1083/openai.git
+  337  git push -u origin main
+  338  git init
+  339  git add .
+  340  git push -u origin main
+  341  git init
+  342  git add .
+  343  git commit -m "first commit"
+  344  git branch -M main
+  345  git remote add origin https://github.com/Gaita1083/OpenAI-tool.git
+  346  git push -u origin main
+  347  git remote rm
+  348  git remote rm destination
+  349  git remote rm /Gaita1083/openai_codex.git
+  350  git remote rm openai_codex
+  351  git remote rm openai_codex.git
+  352  clear
+  353  git init
+  354  git remote remove open_ai_codex
+  355  git init 
+  356  git remote remove /Users/caswelranoto/Local/Desktop copy/open_ai_codex/.git/
+  357  git init
+  358  git add .
+  359  git commit -m
+  360  git commit
+  361  git push -u origin main
+  362  git remote -v
+  363  git remote rm https://github.com/Gaita1083/openai_codex.git (fetch)
+  364  clear
+  365  https://github.com/FORKER/openai_codex.git (fetch)
+  366  git remote -v
+  367  git remote set-url origin  https://github.com/Gaita1083/openai_codex.git (fetch)
+  368  clear
+  369  export PS1=xxxxx
+  370  git branch -a
+  371  git checkout main
+  372  git push
+  373  git init
+  374  git add .
+  375  git commit -m "first commit"
+  376  git push
+  377  git init
+  378  git add .
+  379  git push
+  380  clear
+  381  git push main
+  382  git push
+  383  git push --help
+  384  git push -all
+  385  git push --all
+  386  git pull
+  387  git push
+  388  git rebase
+  389  git commit
+  390  git pull
+  391  git init
+  392  git add .
+  393  git push
+  394  clear
+  395  git stash script
+  396  git stash savd
+  397  git commit
+  398  git add .
+  399  git commit -m "update /client/script.js"
+  400  git init
+  401  git add .
+  402  git commit -m "update server url"
+  403  git pull
+  404  git config pull.rebase true
+  405  git config pull.rebase false
+  406  git add .
+  407  git commit -m 'update server url'
+  408  clear
+  409  git add .
+  410  git commit 'update the server url'
+  411  git commit -m 'update the server url'
+  412  git pull
+  413  git init
+  414  git add .
+  415  git commit 'update the server url'
+  416  git commit -m 'update the server url'
+  417  git init
+  418  git add .
+  419  git commit -m 'update the server url'
+  420  git pysh
+  421  git push
+  422  clear
+  423  npm run dev
+  424  git add .
+  425  git commit -m 'client/script.js'
+  426  git push
+  427  git add .
+  428  git commit -m 'update the server url'
+  429  node -v
+  430  npm create vite@latest client --template vanilla
+  431  cd client
+  432  npm install
+  433  npm run dev
+  434  cd server
+  435  npm init -y
+  436  clear
+  437  npm install cors dotenv express nodemon openai
+  438  npm run server
+  439  cd ..
+  440  cd client
+  441  npm run dev
+  442  git init
+  443  git add .
+  444  cd ..
+  445  cd openai_codex
+  446  git status
+  447  clear
+  448  git -v
+  449  git status
+  450  git restore /client/.gitignore
+  451  git add .
+  452  clear
+  453  git status
+  454  git rm --cached .gitignore
+  455  clear
+  456  git status
+  457  clear
+  458  git status
+  459  git rm --cached node_modules
+  460  git status
+  461  clear
+  462  npm run dev
+  463  npm run build
+  464  git init
+  465  git add .
+  466  git commit -m 'first commit'
+  467  git branch -M main
+  468  git remote add origin https://github.com/Gaita1083/Muzik-Fela.git
+  469  git push -u origin main
+  470  node -v
+  471  npm create vite@latest client --template vanilla
+  472  cd client 
+  473  npm install
+  474  cd server
+  475  npm init -y
+  476  clear
+  477  npm install cors dotenv express nodemon openai
+  478  cd ..
+  479  cd client
+  480  npm run dev
+  481  cd server
+  482  npm run server
+  483  cd ..
+  484  cd client
+  485  npm run dev
+  486  cd client
+  487  cd ..
+  488  git init
+  489  git add .
+  490  git commit -m 'first commit'
+  491  git branch -M main
+  492  git remote add origin https://github.com/Gaita1083/openai_tool.git
+  493  git push -u origin main
+  494  clear
+  495  git add .
+  496  git commit -m 'update the server url'
+  497  git push
+  498  git pull origin main --allow-unrelated-histories
+  499  clear
+  500  git push origin main --force
+  501  npx create-react-app ./
+  502  cd ..
+  503  cd dashboard
+  504  git rm .git
+  505  clear
+  506  npx create-react-app
+  507  clear
+  508  npx create-react-app ./
+  509  q
+  510  clear
+  511  rm -rf .git
+  512  npm --legacy-peer-deps
+  513  clear
+  514  npm install --legacy-peer-deps
+  515  clear
+  516  npm start
+  517  npm install
+  518  npm start
+  519  npx create-react-app ./
+  520  clear
+  521  npx create-react-app ./
+  522  clear
+  523  npx create-react-app ./
+  524  rm -rf .git
+  525  clear
+  526  npm install react-icons --save
+  527  npm install --legacy-peer-deps
+  528  clear
+  529  npm start
+  530  npm istall
+  531  npm install
+  532  npm start
+  533  npm install
+  534  npm start
+  535  brew install aircrack-ng
+  536  clear
+  537  npm start
+  538  clear
+  539  npm start
+  540  npx create-next-app
+  541  npm start
+  542  clear
+  543  npx create-react-app ./
+  544  rm -rf .git
+  545  clear
+  546  npm start
+  547  npm install antd @ant-design/icons react-redux @reduxjs/toolkit axioschart.js html-react-parser millify moment moment react-chartjs-2
+  548  clear
+  549  npm install antd @ant-design/icons react-redux @reduxjs/toolkit axioschart.js html-react-parser millify moment react-chartjs-2
+  550  clear
+  551  npm install antd @ant-design/icons react-redux @reduxjs/toolkit axios chart.js html-react-parser millify moment react-chartjs-2
+  552  npm start
+  553  npm install react@latest react-dom@latest
+  554  clear
+  555  npm start
+  556  npm install -g npm@17.0
+  557  npm install -g npm@17.0.2
+  558  npm install
+  559  npm start
+  560  npm i react-router-dom
+  561  npm start
+  562  git init
+  563  git add .
+  564  git commit -m 'update the images'
+  565  git init
+  566  git add .
+  567  git commit -m 'update the folder'
+  568  git push
+  569  git push main
+  570  git init
+  571  git add .
+  572  git commit -m 'update html'
+  573  git init
+  574  git add .
+  575  git commit -m 'update the index'
+  576  git push -u origin main
+  577  git push -u main
+  578  git push -u 
+  579  clear
+  580  npm start
+  581  npm install
+  582  npm start
+  583  git init
+  584  git add .
+  585  git commit -m 'first commit'
+  586  git branch -M main
+  587  git remote add origin https://github.com/Gaita1083/dashboard.git
+  588  git push -u origin main
+  589  npx create-react-app ./
+  590  rm -rf .git
+  591  clear
+  592  npm install @material-ui/core @material-ui/icons @material-ui/lab @react-google-maps/api axiosgoogle-map-react
+  593  clear
+  594  npm install @material-ui/core @material-ui/icons @material-ui/lab @react-google-maps/api axiosgoogle-map-react
+  595  clear
+  596  npm install @mui/material @mui/styled-engine-sc styled-components @mui/icons-material @react-google-maps/api axios google-map-react
+  597  clear
+  598  npm start
+  599  npm i
+  600  clear
+  601  npm start
+  602  npm i
+  603  clear
+  604  npm start
+  605  npm ls @material-ui/core
+  606  $ npm ls @material-ui/core\nproject@0.1.0 /path/to/project\n└─┬  @mui/x-data-grid@4.0.0\n  └── @material-ui/core@4.12.3\n
+  607  clear
+  608  npm ls @material-ui/core\nproject@0.1.0 /path/to/project\n└─┬  @mui/x-data-grid@4.0.0\n  └── @material-ui/core@4.12.3
+  609  clear
+  610  npm install @material-ui/core --force
+  611  npm audit fix --force
+  612  clear
+  613  npm install
+  614  npm start
+  615  npx create-react-app ./
+  616  rm -rf .git
+  617  clear
+  618  npm install @mui/material @mui/icons-material @mui/lab-material @react-google-maps/api axios google-map-react
+  619  clear
+  620  npm install @mui/material @mui/lab @mui/icons-material @react-google-maps/api axios google-map-react
+  621  npm start
+  622  npm i @emotion/react @emotion/styled
+  623  clear
+  624  npm start
+  625  npm i @mui/styles
+  626  npm install @mui/material @mui/styles\n
+  627  clear
+  628  npm start
+  629  npm install @mui/styles
+  630  clear
+  631  npm install @mui/material @mui/styles\n
+  632  clear
+  633  npx @mui/codemod v5.0.0/preset-safe <path>\n
+  634  clear
+  635  npm start
+  636  npx @mui/codemod v5.0.0/jss-to-styled <path>\n
+  637  npx @mui/codemod v5.0.0/jss-to-styled ./
+  638  clear
+  639  npm start
+  640  npm install
+  641  clear
+  642  npm start
+  643  clear
+  644  npm start
+  645  npx create-react-app ./
+  646  rm -rf .git
+  647  clear
+  648  npm install
+  649  clear
+  650  npm start
+  651  clear
+  652  npx create-react-app ./
+  653  clear
+  654  npx create-react-app ./
+  655  rm -rf .git
+  656  clear
+  657  npm install @mui/material @emotion/react @emotion/styled @mui/icons-material @mui/lab @react-google-maps/api axios google-map-react
+  658  npm start
+  659  npm install @mui/material @mui/styles\n
+  660  clear
+  661  npm start
+  662  npx thirdweb@latest create --contract
+  663  cd web3
+  664  rm -rf .git
+  665  clear
+  666  npm install dotenv
+  667  cd web3
+  668  npm run deploy
+  669  cd ..
+  670  cd client
+  671  claer
+  672  clear
+  673  npx thirdweb create --app
+  674  rm -rf .git
+  675  npm install react-router-dom
+  676  npm run dev
+  677  npm install -D tailwindcss postcss autoprefixer
+  678  cd client
+  679  npx tailwindcss init -p
+  680  npm run dev
+  681  cd ..
+  682  npm run dev
+  683  clear
+  684  npm start
+  685  clear
+  686  npm run deploy
+  687  clear
+  688  cd client
+  689  npm run dev
+  690  cd client
+  691  npm run dev
+  692  clear
+  693  cd client
+  694  npm run dev
+  695  cd client
+  696  npm run build
+  697  clear
+  698  cd ..
+  699  git init
+  700  git add .
+  701  git -m 'first commit'
+  702  git commit -m 'first commit'
+  703  git branch -M main
+  704  git remote add origin https://github.com/Gaita1083/Crowdfunding-Platform.git
+  705  git push -u origin main
+  706  cd client
+  707  npx create-react-app ./
+  708  clear
+  709  rm -rf .git
+  710  clear
+  711  cd ..
+  712  cd chatrx
+  713  cd ..
+  714  cd ChatRx
+  715  cd client
+  716  clear
+  717  npm install stream-chat stream-chat-react universal-cookie
+  718  clear
+  719  npm start
+  720  cd client
+  721  cd..
+  722  cd ..
+  723  cd server
+  724  npm init -y
+  725  clear
+  726  npm install bcrypt crypto dotenv express getstream stream-chat nodemon twilio
+  727  npm install cors
+  728  npm run dev
+  729  cd server
+  730  npm run dev
+  731  cd server
+  732  npm run server
+  733  clear
+  734  npm run dev
+  735  cd server
+  736  npm run dev
+  737  cd client
+  738  npm start
+  739  cd ..
+  740  cd server
+  741  clear
+  742  npm run dev
+  743  cd ..
+  744  cd server
+  745  npm run dev
+  746  cd client
+  747  npm install axios
+  748  clear
+  749  npm start
+  750  cd ..
+  751  cd server
+  752  npm run dev
+  753  cd local
+  754  git clone https://github.com/Gaita1083/chat
+  755  npm t
+  756  git checkout -b refactor
+  757  open -a Google\ Chrome --args --disable-web-security --user-data-dir
+  758  cd local
+  759  https://github.com/Gaita1083/project_medical_pager_chat
+  760  git clone https://github.com/Gaita1083/project_medical_pager_chat
+  761  cd client
+  762  npm start
+  763  cd ..
+  764  cd server
+  765  npm run dev
+  766  cd client
+  767  npm start
+  768  cd ..
+  769  cd server
+  770  npm run dev
+  771  cd ..
+  772  cd server
+  773  npm run dev
+  774  cd ..
+  775  cd server
+  776  npm run dev
+  777  npm install
+  778  npm run dev
+  779  git init
+  780  git add .
+  781  git commit -m "first commit"
+  782  git branch -M main
+  783  git remote add origin https://github.com/Gaita1083/Project-Metaverse.git
+  784  git push -u origin main
+  785  npm rundev
+  786  npm run dev
+  787  npm run build
+  788  clear
+  789  npm run dev
+  790  rm -rf .git
+  791  npm run build
+  792  clear
+  793  npm run build
+  794  clear
+  795  npm run build
+  796  git status
+  797  git add *
+  798  git add .
+  799  git commit -m 'updated json & index'
+  800  git push origin refactor
+  801  npm create vite/latest ./-- --template react
+  802  clear
+  803  npm create vite@latest ./ -- --template react
+  804  npm install -D tailwindcss
+  805  npx tailwindcss init
+  806  clear
+  807  npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+  808  npm run dev
+  809  npm run dex
+  810  clear
+  811  npm run dev
+  812  npm install --legacy-peer-deps -D postcss autoprefixer
+  813  npx tailwindcss init -p
+  814  clear
+  815  npm run dev
+  816  npm install --legacy-peer-deps three
+  817  npm run dev
+  818  clear
+  819  npm run dev
+  820  clear
+  821  npm run dev
+  822  npm start
+  823  clear
+  824  sudo systemctl status httpd
+  825  clear
+  826  sudo systemctl status httpd
+  827  clear
+  828  sudo systemctl status apache2
+  829  clear
+  830  homebrew -v
+  831  brew -v
+  832  brew install httpd
+  833  brew services start httpd
+  834  npm run dev
+  835  npm start
+  836  clear
+  837  cd client
+  838  npm start
+  839  npm run dev
+  840  git add .
+  841  git init
+  842  git add .
+  843  git commit -m 'updated the html'
+  844  git push -u origin main
+  845  npm run dev
+  846  npm run build
+  847  git init
+  848  git add .
+  849  git commit -m 'first commit'
+  850  git branch -M main
+  851  git remote add origin https://github.com/Gaita1083/3D--PORTFOLIO.git
+  852  git push -u origin main
+  853  git init
+  854  git add .
+  855  git commit -m 'update image'
+  856  npm run dev
+  857  rm -rf .git
+  858  npm run build
+  859  npm create vite@latest -- --template react client
+  860  cd client
+  861  npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
+  862  npm install -D tailwindcss postcss autoprefixer
+  863  npx tailwindcss init -p
+  864  clear
+  865  npm run dev
+  866  npm run dev 
+  867  npm run dev
+  868  cd client
+  869  clear
+  870  npm run dev
+  871  clear
+  872  npm run dev
+  873  cd client
+  874  npm run dev
+  875  cd server
+  876  npm init -y
+  877  npm install cloudinary cors dotenv express mongoose nodemon openai
+  878  npm start
+  879  cd server
+  880  npm start
+  881  cd server
+  882  npm start
+  883  cd server
+  884  npm start
+  885  cd server
+  886  npm start
+  887  clear
+  888  cd server
+  889  npm start
+  890  cd server
+  891  npm start
+  892  cd client
+  893  npm run dev
+  894  server
+  895  npm start
+  896  cd client
+  897  npm run dev
+  898  clear
+  899  npm run dev
+  900  cd client
+  901  npm run dev
+  902  cd server
+  903  npm start
+  904  cd client
+  905  npm run dev
+  906  clear
+  907  npm start
+  908  npx create-next-app@latest
+  909  cd ..
+  910  cd client
+  911  npm run dev
+  912  npm install
+  913  npm rundev
+  914  npm run dev
+  915  npx create-next-app@latest -e with-tailwindcss ./
+  916  npx create-next-app -e with-tailwindcss
+  917  npm i -g create-next-app
+  918  cd server
+  919  npm start
+  920  cd client
+  921  npm rundev
+  922  npm run dev
+  923  cd client
+  924  npm run dev
+  925  cd server
+  926  npm start
+  927  cd client
+  928  npx create-react-app drink-choice-app
+  929  cd drink-choice-app
+  930  npm install axios
+  931  npm install -D tailwindcss\nnpx tailwindcss init
+  932  npm start
+  933  git clone https://github.com/0x7An/affiliate-marketing-dashboard.git
+  934  cd affiliate-marketing-dashboard
+  935  NPM RUN DEV
+  936  npm run dev
+  937  npm start
+  938  npx create-next-app@latest
+  939  npm run dev
+  940  npx create-next-app@latest
+  941  npm run dev
+  942  /wheretobe
+  943  ./wheretobe
+  944  npm run dev
+  945  npx shadcn-ui@latest init\n
+  946  npx shadcn-ui@latest init
+  947  npm install uploadthing @uploadthing react
+  948  npm install uploadthing @uploadthing/react
+  949  npx shadcn-ui@latest add button
+  950  npm run dev
+  951  npx create-next-app@latest
+  952  npx create-next-app@latest ./
+  953  clear
+  954  npx create-next-app@latest .
+  955  npx create-next-app@latest ./
+  956  npm run dev
+  957  npx shadcn-ui@latest init\n
+  958  npx shadcn-ui@latest add button\n
+  959  npm install uploadthing @uploadthing/react
+  960  npm run dev
+  961  npm install @clerk/nextjs
+  962  npx shadcn-ui@latest add sheet\n
+  963  npx shadcn-ui@latest add separator\n
+  964  npm install mongoose mongodb
+  965  npm install svix
+  966  npm install query-string
+  967  cleer
+  968  clear
+  969  git init
+  970  git add
+  971  git add .
+  972  git commit -m 'first commit'
+  973  git branch -M main
+  974  git remote add origin https://github.com/Gaita1083/event_management_platform.git
+  975  git push -u origin main
+  976  npm
+  977  npm install --legacy-peer-deps
+  978  clear
+  979  npm run dev
+  980  npx create-expo-app ./
+  981  npx create-expo-app@latest -e with-router
+  982  npx ccreate-expo-app@latest -e wit-router ./
+  983  clear
+  984  npx ccreate-expo-app@latest -e with-router ./
+  985  clear
+  986  npx create-expo-app@latest -e with-router ./
+  987  clear
+  988  npx create-expo-app ./
+  989  npm install -g create-expo-app
+  990  clear
+  991  npx create-expo-app --template
+  992  clear
+  993  npx create-expo-app --template
+  994  rm -rf .git
+  995  git status
+  996  clear
+  997  npm install expo-font axios react-native-dotenv
+  998  npm start
+  999  npx create-expo-app@latest -e with-router ./
+ 1000  npm audit fix --force
+ 1001  cleae
+ 1002  clear
+ 1003  npm install expo-font axiz
+ 1004  npm install expo-font axios react-native-dotenv
+ 1005  npm start
+ 1006  npm install -g expo-cli
+ 1007  expo-cli start --tunnel
+ 1008  npx create-expo-app --template
+ 1009  npx expo start
+ 1010  cd ma-app
+ 1011  cd my-app
+ 1012  npm start
+ 1013  clear
+ 1014  npm run
+ 1015  clear
+ 1016  npm run dev
+ 1017  npm start
+ 1018  clear
+ 1019  code .
+ 1020  git clone https://github.com/Gaita1083/ecommerce.git
+ 1021  cd ecommerce
+ 1022  code .
+ 1023  code.
+ 1024  code .
+ 1025  npm run dec
+ 1026  npm run dev
+ 1027  python3 winning.py
+ 1028  cd 
+ 1029  clear
+ 1030  cd desktop
+ 1031  python 3 winning.py
+ 1032  python3 winning.py
+ 1033  /usr/local/bin/python3 /Users/caswelranoto/saaa.py
+ 1034  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task1.py
+ 1035  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task2.py
+ 1036  clear
+ 1037  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task2.py
+ 1038  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task3.py
+ 1039  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task4.py
+ 1040  clcear
+ 1041  clear
+ 1042  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task4.py
+ 1043  clear
+ 1044  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task5.py
+ 1045  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task6.py
+ 1046  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task7.py
+ 1047  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task8.py
+ 1048  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task9.py
+ 1049  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task4.py
+ 1050  clear
+ 1051  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task10.py
+ 1052  clear
+ 1053  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task10.py
+ 1054  clear
+ 1055  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task10.py
+ 1056  $ git --version
+ 1057  git --version
+ 1058  git config --list --show-origin
+ 1059  git config --global user.name “[Caswel Ranoto]"\ngit config --global user.email “[goexstudios@icloud.com]"
+ 1060  clear
+ 1061  ls
+ 1062  /Desktop
+ 1063  .Desktop
+ 1064  ~/.bashrc
+ 1065  cd desktop
+ 1066  mkdir Outer directory
+ 1067  cd Outer directory
+ 1068  cd Outer_directory
+ 1069  mkdir Outer_directory
+ 1070  cd Outer_directory
+ 1071  cd ..
+ 1072  ls
+ 1073  clear
+ 1074  cd ..
+ 1075  cd desktop
+ 1076  ls
+ 1077  ls /
+ 1078  cd ..
+ 1079  ls /
+ 1080  pwd
+ 1081  mkdir example
+ 1082  cd /
+ 1083  cd .. 
+ 1084  cd ..
+ 1085  pwd
+ 1086  clear
+ 1087  cd ..
+ 1088  cd desktop
+ 1089  cd /
+ 1090  cd / ..
+ 1091  cd ..
+ 1092  clear
+ 1093  mkdir
+ 1094  clear
+ 1095  cd desktop
+ 1096  pwd
+ 1097  clear
+ 1098  mkdir github
+ 1099  cd github
+ 1100  pwd
+ 1101  cd ../..
+ 1102  pwd
+ 1103  cd desktop
+ 1104  ls ../..
+ 1105  ls ..
+ 1106  cd ../
+ 1107  ls -l
+ 1108  ls -l /
+ 1109  ls -R
+ 1110  clear
+ 1111  ls  -l -t -r
+ 1112  ls -lh
+ 1113  man ls
+ 1114  man lss
+ 1115  man ls
+ 1116  clesr
+ 1117  clear
+ 1118  ls
+ 1119  rmdir github
+ 1120  ls
+ 1121  mkdir Screenshots
+ 1122  mv Screen Recording 2024-02-17 at 10.28.05.mov Screenshots/
+ 1123  ls
+ 1124  mv Screen Recording 2024-02-17 at 10.19.19.mov Screenshots
+ 1125  mv Screenshot 2024-02-17 at 09.50.30.png Screenshots/
+ 1126  touch heaven.txt
+ 1127  touch earth.txt
+ 1128  ls
+ 1129  mv heaven.txt screenshots
+ 1130  mv screen recordidng 2024-02-07 at 10.19.19.mov screenshots
+ 1131  mv ScreenRecording2024-02-17at10.19.19.mov screenshots/
+ 1132  mv earth.txt screenshots/
+ 1133  cd screenshots
+ 1134  ls
+ 1135  cd ..
+ 1136  rmdir screenshots
+ 1137  cd screenshots
+ 1138  rm -i earth.txt heaven.txt rags
+ 1139  ls
+ 1140  cd ..
+ 1141  rmdir screenshots
+ 1142  ls
+ 1143  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/task10.py
+ 1144  clea
+ 1145  clear
+ 1146  ls
+ 1147  cd umuzi_camp
+ 1148  git clone https://github.com/Umuzi-org/Caswel-Ranoto-394-bash-for-bootcamp-.git
+ 1149  cd caswelranoto
+ 1150  cd home
+ 1151  cd caswels-air
+ 1152  cd /caswelranoto
+ 1153  cd ../caswelranoto
+ 1154  cd ..
+ 1155  cd caswelranoto
+ 1156  cd ~
+ 1157  cd /
+ 1158  owd
+ 1159  pwd
+ 1160  cd ~
+ 1161  pwd
+ 1162  cd
+ 1163  pwd
+ 1164  mancd
+ 1165  man cd
+ 1166  man -p
+ 1167  clear
+ 1168  man clear
+ 1169  clear
+ 1170  cd desktop
+ 1171  cd umuzi_capm
+ 1172  cd umuzi_camp
+ 1173  ls
+ 1174  cd Caswel-Ranoto-394-bash-for-bootcamp-
+ 1175  git add .
+ 1176  git commit -m 'Upload'
+ 1177  git status
+ 1178  git push
+ 1179  cd ../..
+ 1180  cd umuzi_camp
+ 1181  git clone https://github.com/Umuzi-org/Caswel-Ranoto-429-bootcamp-writing-assignment-.git
+ 1182  git add .
+ 1183  ls
+ 1184  cd Caswel-Ranoto-429-bootcamp-writing-assignment-
+ 1185  git add .
+ 1186  git commit -m 'First commit'
+ 1187  git push
+ 1188  ls
+ 1189  cd desktop
+ 1190  ls
+ 1191  cd umuzi_camp
+ 1192  ls
+ 1193  cd Caswel-Ranoto-394-bash-for-bootcamp-
+ 1194  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+ 1195  .DS_Store
+ 1196  echo .DS_Store >> .gitignore
+ 1197  git add .gitignore
+ 1198  git commit -m '.DS_Store banished!'
+ 1199  ls
+ 1200  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch\n
+ 1201  ls
+ 1202  git rm .DS_Store\n
+ 1203  clear
+ 1204  cd desktop
+ 1205  cd umuzi_camp
+ 1206  ls
+ 1207  cd Caswel-Ranoto-394-bash-for-bootcamp-
+ 1208  ld
+ 1209  ls
+ 1210  git rm .DS_Store
+ 1211  cd .DS_Store
+ 1212  git checkout -b remove-dsstore\n
+ 1213  git rm --cached '**/.DS_Store'\n
+ 1214  ls
+ 1215  cd ..
+ 1216  mkdir test
+ 1217  ls
+ 1218  cd tezt
+ 1219  cd test
+ 1220  touch heaven.txt
+ 1221  ls
+ 1222  cd ..
+ 1223  rm -i test
+ 1224  rm test
+ 1225  cd test
+ 1226  ls
+ 1227  rm heaven.txt
+ 1228  ls
+ 1229  cd ..
+ 1230  ls
+ 1231  rmdir test
+ 1232  ls
+ 1233  cd ..
+ 1234  cd umuzi_camp
+ 1235  ls
+ 1236  cd Caswel-Ranoto-394-bash-for-bootcamp- 
+ 1237  ls
+ 1238  git add .
+ 1239  git commit -m "Question 12"
+ 1240  git add .
+ 1241  git commit -m "Update"
+ 1242  clear
+ 1243  ls
+ 1244  $ find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch\n
+ 1245  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch\n
+ 1246  echo .DS_Store >> .gitignore
+ 1247  git commit -am "remove .DS_Store files"
+ 1248  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+ 1249  git commit -m "Remove .DS_Store from everywhere"
+ 1250  git log
+ 1251  https://github.com/Umuzi-org/Caswel-Ranoto-394-bash-for-bootcamp-.git
+ 1252  git clone https://github.com/Umuzi-org/Caswel-Ranoto-394-bash-for-bootcamp-.git
+ 1253  cd ..
+ 1254  https://github.com/Umuzi-org/Caswel-Ranoto-394-bash-for-bootcamp-.git
+ 1255  git clone https://github.com/Umuzi-org/Caswel-Ranoto-394-bash-for-bootcamp-.git
+ 1256  /usr/local/bin/python3 /Users/caswelranoto/Downloads/task10.py
+ 1257  clear
+ 1258  ls
+ 1259  /usr/local/bin/python3 /Users/caswelranoto/Downloads/task10.py
+ 1260  cd ../..
+ 1261  ls
+ 1262  cd desktop
+ 1263  /usr/local/bin/python3 /Users/caswelranoto/Downloads/task10.py
+ 1264  ls
+ 1265  cd umuzi_camp
+ 1266  ls
+ 1267  clear
+ 1268  cd desktop
+ 1269  cd umuzi_camp
+ 1270  ls
+ 1271  cd Caswel-Ranoto-219-level-1-programming-katas-python
+ 1272  cd umuzi_camp
+ 1273  cd Caswel-Ranoto-219-level-1-programming-katas-python
+ 1274  ls
+ 1275  touch task1.py
+ 1276  ls
+ 1277  cd task1.py
+ 1278  code .
+ 1279  code
+ 1280  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task1.py
+ 1281  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task2.py
+ 1282  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task3.py
+ 1283  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task4.py
+ 1284  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task5.py
+ 1285  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task6.py
+ 1286  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task7.py
+ 1287  cd desktop/umuzi_camp/caswel-ranoto-219-level-1-programming-katas-python
+ 1288  git add . 
+ 1289  git commit -m "first commit"
+ 1290  git reset --hard HEAD~1\n
+ 1291  clear
+ 1292  ls
+ 1293  git checkout main
+ 1294  git pull
+ 1295  git checkout -b task/1
+ 1296  git add .
+ 1297  git add
+ 1298  git add .
+ 1299  ls
+ 1300  git add .
+ 1301  ls
+ 1302  git commit -m "first commit"
+ 1303  .gitignore
+ 1304  echo ".DS_Store" >> ~/.gitignore_global
+ 1305  ls
+ 1306  clear
+ 1307  git ls
+ 1308  ls
+ 1309  git add .
+ 1310  ls
+ 1311  git commit -m 'first commit'
+ 1312  git log
+ 1313  cd ..
+ 1314  ls
+ 1315  cd Caswel-Ranoto-219-level-1-programming-katas-python
+ 1316  git branch -a
+ 1317  git checkout task1
+ 1318  git checkout -b task/1
+ 1319  cd ..
+ 1320  cd Caswel-Ranoto-219-level-1-programming-katas-python
+ 1321  git add .
+ 1322  ls
+ 1323  git commit 'first commit'
+ 1324  git commit -m "first commit"
+ 1325  git push
+ 1326  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/exm.py
+ 1327  ls
+ 1328  git checkout main
+ 1329  git pull
+ 1330  git checkout -b task/1
+ 1331  touch task1.py
+ 1332  git add task1.py
+ 1333  git commit -m "Update"
+ 1334  git push origin task/1
+ 1335  git checkout main
+ 1336  git pull 
+ 1337  git checkout -b task/2
+ 1338  touch task2.py
+ 1339  git add task2.py
+ 1340  git commit -m "Updated Task 2"
+ 1341  git push origin task/2
+ 1342  git checkout main
+ 1343  git pull
+ 1344  git checkout -b task/3
+ 1345  touch task3.py
+ 1346  git add task3.py
+ 1347  git commit -m "Added Task 3"
+ 1348  git push origin task/3
+ 1349  git checkout main
+ 1350  git pull 
+ 1351  git checkout -b task/2
+ 1352  cleae
+ 1353  cleare
+ 1354  cleaer
+ 1355  clear
+ 1356  git checkout main
+ 1357  git pull
+ 1358  git checkout -b task/4
+ 1359  touch task4.py
+ 1360  git add task4.py
+ 1361  git commit -m "Added Task 4"
+ 1362  git push origin task/4
+ 1363  git checkout main
+ 1364  git pull
+ 1365  git checkout -b task/5
+ 1366  touch task5.py
+ 1367  git add task5.py
+ 1368  git commit -m "Added a file"
+ 1369  git push origin task/5
+ 1370  git checkout main
+ 1371  git pull
+ 1372  git checkout -b task/6
+ 1373  touch task6.py
+ 1374  git add task6.py
+ 1375  git commit -m "Added Task 6"
+ 1376  git push origin task/6
+ 1377  git checkout main
+ 1378  git pull
+ 1379  git checkout -b task/7
+ 1380  touch task7.py
+ 1381  git add task7.py
+ 1382  git commit -m "Added Task 7"
+ 1383  git push origin task/7
+ 1384  usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task2.py
+ 1385  cd ..
+ 1386  ls
+ 1387  cd Caswel-Ranoto-219-level-1-programming-katas-python
+ 1388  cd ..
+ 1389  ls
+ 1390  git checkout main
+ 1391  git pull
+ 1392  git checkout -b task/10
+ 1393  touch task10.py
+ 1394  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-754-contentitem-python/task10.py
+ 1395  git add task10.py
+ 1396  git commit -m "Updated Task 10"
+ 1397  git push origin task/10
+ 1398  git checkout -b task/10
+ 1399  git checkout main
+ 1400  git pull
+ 1401  git checkout -b task/10
+ 1402  gti checkout -b task
+ 1403  git checkout -b task/1
+ 1404  touch task10.py
+ 1405  git add task10.py
+ 1406  git commit -m "Updated Task 10"
+ 1407  git push origin task/1
+ 1408  clear
+ 1409  touch task10.py
+ 1410  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-754-contentitem-python/task10.py
+ 1411  git add task10.py
+ 1412  git commit -m "Added file"
+ 1413  git push origin task/1
+ 1414  git checkout -b main
+ 1415  git checkout main
+ 1416  git pull
+ 1417  git checkout main
+ 1418  cd ..
+ 1419  ls
+ 1420  cd Caswel-Ranoto-606-tilde-project-tutorial-how-repo-projects-work-
+ 1421  ls
+ 1422  git checkout main
+ 1423  git pull 
+ 1424  git checkout -b important
+ 1425  touch important.md
+ 1426  git add important.md
+ 1427  git commit -m "Markdown file"
+ 1428  git push origin important
+ 1429  git checkout main
+ 1430  git pull
+ 1431  git checkout -b task/1
+ 1432  touch task1.py
+ 1433  git add task1.py
+ 1434  git commit -m "Added tASK 1"
+ 1435  git push origin task/1
+ 1436  git checkout main
+ 1437  git pull
+ 1438  ls
+ 1439  git checkout -b task/2
+ 1440  touch task2.py
+ 1441  git checkout main
+ 1442  git pull
+ 1443  git checkout -b task/1
+ 1444  git checkout main
+ 1445  clear
+ 1446  git init
+ 1447  cd ..
+ 1448  cd desktop
+ 1449  cd umuzi_camp
+ 1450  ls
+ 1451  git checkout main
+ 1452  ls
+ 1453  git pull
+ 1454  git checkout -b task/1
+ 1455  touch task1.py
+ 1456  git add task1.py
+ 1457  git commit -m "Added file 1"
+ 1458  git push origin task/1
+ 1459  git checkout main
+ 1460  git pull
+ 1461  git checkout -b task/2
+ 1462  clear
+ 1463  ls
+ 1464  touch task2.py
+ 1465  git add task2.py
+ 1466  git commit -m "Added file"
+ 1467  git push origin task/2
+ 1468  git checkout main
+ 1469  git pull
+ 1470  git checkout -b task/3
+ 1471  touch task3.py
+ 1472  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task3.py
+ 1473  git add task3.py
+ 1474  git commit -m "Added file"
+ 1475  git push origin task/3
+ 1476  git checkout main
+ 1477  git pull
+ 1478  git checkout -b task/4
+ 1479  git
+ 1480  touch task4.py
+ 1481  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task4.py
+ 1482  git add task4.py
+ 1483  git commit -m "Added file"
+ 1484  gitpush origin task/4
+ 1485  git push origin task/4
+ 1486  git checkout main
+ 1487  git pull
+ 1488  git checkout -b task/5
+ 1489  touch task5.py
+ 1490  git add task5.py
+ 1491  git commit -m "Added file"
+ 1492  git push origin task/5
+ 1493  git checkout main
+ 1494  git pull
+ 1495  git checkout -b task/6
+ 1496  touch task6.py
+ 1497  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task6.py
+ 1498  git add task6.py
+ 1499  git commit -m "Added file"
+ 1500  git push origin task/6
+ 1501  git checkout main
+ 1502  git pull
+ 1503  git checkout -b task/7
+ 1504  touch task7.py
+ 1505  git add task7.py
+ 1506  git commit -m "Added file"
+ 1507  git push origin task/7
+ 1508  git checkout main
+ 1509  git pull
+ 1510  git checkout -b important
+ 1511  git checkout main
+ 1512  git pull
+ 1513  git checkout -b important
+ 1514  git checkout -b markdown
+ 1515  touch important.md
+ 1516  git add important.md
+ 1517  git commit -m "Added markdown file"
+ 1518  git push origin markdown
+ 1519  git checkout main
+ 1520  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-606-tilde-project-tutorial-how-repo-projects-work-/task1.py
+ 1521  CLEAR
+ 1522  git checkout main
+ 1523  git pull
+ 1524  git checkout -b person
+ 1525  touch person.py
+ 1526  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-223-person-python/person.py
+ 1527  git add person.py
+ 1528  git commit -m "first commit"
+ 1529  git push origin person
+ 1530  git checkout main
+ 1531  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/test.py
+ 1532  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/example.py
+ 1533  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-606-tilde-project-tutorial-how-repo-projects-work-/task1.py
+ 1534  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task2.py
+ 1535  git checkout main
+ 1536  git pull
+ 1537  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-606-tilde-project-tutorial-how-repo-projects-work-/task1.py
+ 1538  cd desktop
+ 1539  cd umuzi_camp
+ 1540  ls
+ 1541  mkdir git-basic-exercises
+ 1542  ls
+ 1543  cd git-basic-exercises
+ 1544  ls -a
+ 1545  git init
+ 1546  ls
+ 1547  ls -a
+ 1548  git status
+ 1549  touch README.md
+ 1550  ls -a
+ 1551  git status
+ 1552  git log
+ 1553  git add readme.md
+ 1554  git status
+ 1555  git commit -m "first commit"
+ 1556  git status
+ 1557  clesr
+ 1558  clear
+ 1559  ls
+ 1560  git checkout -- <README.md>
+ 1561  git reset
+ 1562  ls -a
+ 1563  cd ..
+ 1564  cd trash
+ 1565  cd desktop/umuzi_camp
+ 1566  ls -a
+ 1567  mkdir git-basic-exercises
+ 1568  ls -a
+ 1569  cd git-basic-exercises
+ 1570  ls -a
+ 1571  git init
+ 1572  ls -a
+ 1573  git status
+ 1574  touch README.md
+ 1575  lss -a
+ 1576  ls -a
+ 1577  git status
+ 1578  git log
+ 1579  git add README.md
+ 1580  git status
+ 1581  git reset README.md
+ 1582  git status
+ 1583  git add README.md
+ 1584  git commit -m "initial commit"
+ 1585  git log
+ 1586  nano README.md
+ 1587  cat README.md
+ 1588  git status
+ 1589  git add README.md
+ 1590  git commit -m "second commit"
+ 1591  git log
+ 1592  nano README.md
+ 1593  cat README.md
+ 1594  git status
+ 1595  git add README.md
+ 1596  git commit -m "third commit"
+ 1597  git log
+ 1598  git checkout  7f0d952fb2fe7cb30cba68608e61e7727d5c3a98
+ 1599  cat README.md
+ 1600  git checkout main
+ 1601  cat README.md
+ 1602  git branch
+ 1603  git pull
+ 1604  clear
+ 1605  git branch
+ 1606  git checkout -b milkshake-flavours
+ 1607  git branch *
+ 1608  git branch
+ 1609  nano milkshakes.md
+ 1610  git status
+ 1611  git add milkshakes.md
+ 1612  git commit -m "added initial flavours"
+ 1613  git log
+ 1614  git checkout main
+ 1615  git status
+ 1616  ls -a
+ 1617  git checkout -b history
+ 1618  git log
+ 1619  git branch
+ 1620  history > history.txt
+ 1621  git add history.txt
+ 1622  git commit -m "added history"
+ 1623  git log
+ 1624  git checkout milkshake-flavours
+ 1625  git log
+ 1626  ls -a
+ 1627  nano README.md
+ 1628  cat README.md
+ 1629  git add README.md
+ 1630  git commit -m "random readme changes"
+ 1631  git checkout history
+ 1632  cat README.md
+ 1633  rm README.md
+ 1634  echo "booya" > README.md
+ 1635  git add README.md
+ 1636  git commit -m "rewrote readme"
+ 1637  git checkout main
+ 1638  ls
+ 1639  git log
+ 1640  git checkout milkshake-flavours
+ 1641  ls
+ 1642  git log
+ 1643  git checkout history
+ 1644  ls
+ 1645  git log
+ 1646  git checkout main
+ 1647  git merge milkshake-flavours
+ 1648  ls
+ 1649  log
+ 1650  git log
+ 1651  git chekout history
+ 1652  git checkout history
+ 1653  git log
+ 1654  git checkout milkshake-flavours
+ 1655  git log
+ 1656  git main
+ 1657  git checkout main
+ 1658  git merge history
+ 1659  cat README.md
+ 1660  nano README.md
+ 1661  git add README.md
+ 1662  git commit -m "Updated README.md to fix conflict"
+ 1663  git mergr history
+ 1664  git merge history
+ 1665  git log
+ 1666  git rebase -i HEAD~6
+ 1667  git log
+ 1668  git rebase -i 52d4b3c\n
+ 1669  cd desktop/umuzi_camp
+ 1670  ls
+ 1671  cd git-basic-exercises
+ 1672  git log
+ 1673  git rebase -i 8f43dd4fc68dbc15e4f9fae050fffccc00beb380
+ 1674  rm -f ".git/rabse-merge"
+ 1675  git rebase -i 8f43dd4fc68dbc15e4f9fae050fffccc00beb380
+ 1676  nano README.md
+ 1677  cat README.md
+ 1678  git --continue
+ 1679  git rebase --continue
+ 1680  git push origin main --force
+ 1681  clear
+ 1682  cd ..
+ 1683  ls
+ 1684  mkdir git-basic-exercises
+ 1685  cd git-basic-exercises
+ 1686  ls -a
+ 1687  git init
+ 1688  ls -a
+ 1689  git status
+ 1690  touch README.md
+ 1691  ls -a
+ 1692  git status
+ 1693  git log
+ 1694  git add README.md
+ 1695  git status
+ 1696  git commit -m "initial commit"
+ 1697  git log 
+ 1698  nano README.md
+ 1699  cat README.md
+ 1700  git status
+ 1701  git add README.md
+ 1702  git commit -m "second commit"
+ 1703  git log
+ 1704  nano README.md
+ 1705  cat README.md
+ 1706  git add README.md
+ 1707  git commit "third commit"
+ 1708  git commit -m "third commit"
+ 1709  git log
+ 1710  git checkout 2966392f4595f6179dd112a057c07dde0aca02ad
+ 1711  cat README.md
+ 1712  git checkout main
+ 1713  cat README.md
+ 1714  git branch
+ 1715  git checkout -b milkshake-flavours
+ 1716  nano milkshakes.md
+ 1717  cat milkshakes.md
+ 1718  git add milkshakes.md
+ 1719  git commit -m "added initial flavours"
+ 1720  git log
+ 1721  git checkout main
+ 1722  git checkout -b history
+ 1723  git log
+ 1724  git branch
+ 1725  nano README.md
+ 1726  cat README.md
+ 1727  git add README.md
+ 1728  git commit -m "random readme changes"
+ 1729  git checkout
+ 1730  git checkout history
+ 1731  history > history.txt
+ 1732  git add history.txt
+ 1733  git log
+ 1734  git checkout 81bbf70d7df084fcb9eb815ab91722f911a66c4d
+ 1735  git branch -d 81bbf70d7df084fcb9eb815ab91722f911a66c4d
+ 1736  git chekout main 
+ 1737  git checkout main
+ 1738  git branch -d 81bbf70d7df084fcb9eb815ab91722f911a66c4d
+ 1739  clear
+ 1740  cd ..
+ 1741  cd desktop/umuzi_camp
+ 1742  ls
+ 1743  mkdir git-basic-exercises
+ 1744  cd git-basic-exercises
+ 1745  git init
+ 1746  touch README.md
+ 1747  git log
+ 1748  ls -a
+ 1749  git add README.md
+ 1750  git reset HEAD README.md
+ 1751  git status
+ 1752  git rm --cached <git-basic-exercise>
+ 1753  git rm --cached <README.md>
+ 1754  git commit -m "initial commit"
+ 1755  git log
+ 1756  nano README.md
+ 1757  git status
+ 1758  git add README.md
+ 1759  git commit -m "second commit"
+ 1760  git log
+ 1761  nano README.md
+ 1762  cat README.md
+ 1763  git add README.md
+ 1764  git commit -m "third commit"
+ 1765  git log
+ 1766  git checkout 1dff8c54e549371dbe7aa47e34443e3ec388427d
+ 1767  cat README.md
+ 1768  git checkout main
+ 1769  cat README.md
+ 1770  git checkout -b milkshake-flavours
+ 1771  git branch 
+ 1772  nano milkshakes.md
+ 1773  cat milkshake.md
+ 1774  cat milkshakes.md
+ 1775  git add milkshakes.md
+ 1776  git status
+ 1777  git commit -m "added initial flavours"
+ 1778  git log
+ 1779  git chekout main
+ 1780  git checkout main
+ 1781  git log
+ 1782  git status
+ 1783  git checkout -b history
+ 1784  git log
+ 1785  git branch
+ 1786  histort > history.txt
+ 1787  git add history.txt
+ 1788  git commit -m "added history"
+ 1789  git log
+ 1790  git checkout milkshake-flavours
+ 1791  git log
+ 1792  git checkout history
+ 1793  git log
+ 1794  git checkout milkshake-flavours
+ 1795  nano README.md
+ 1796  git add README.md
+ 1797  git commit -m "random readme changes"
+ 1798  git checkout history
+ 1799  cat README.md
+ 1800  rm README.md
+ 1801  echo "booya" > README.md
+ 1802  git add README.md
+ 1803  git commit -m "rewrote readme"
+ 1804  git checkout main
+ 1805  ls
+ 1806  git log
+ 1807  git checkout milkshake-flavours
+ 1808  ls
+ 1809  git log
+ 1810  git checkout history
+ 1811  ls
+ 1812  git log
+ 1813  git checkout main
+ 1814  git mergr milkshake-flavours
+ 1815  ls
+ 1816  git merge milkshake-flavours
+ 1817  ls
+ 1818  git log
+ 1819  git checkout main
+ 1820  git merge history
+ 1821  git log
+ 1822  ls
+ 1823  nano history.txt
+ 1824  ls
+ 1825  git status
+ 1826  code.
+ 1827  code .
+ 1828  code git-basic-exercises
+ 1829  nano README.md
+ 1830  git add README.md
+ 1831  git commit -m "Resolve merge conflict by keeping the branch's changes"
+ 1832  git log
+ 1833  ls
+ 1834  cat history.txt
+ 1835  git status
+ 1836  git checkout history
+ 1837  git log
+ 1838  git checkout milkshake-flavours
+ 1839  git log
+ 1840  git checkout history
+ 1841  git merge main
+ 1842  git log
+ 1843  git checkout main
+ 1844  git log
+ 1845  git checkout history
+ 1846  git log
+ 1847  git checkout main
+ 1848  git log
+ 1849  git checkout history
+ 1850  git log
+ 1851  git checkout main
+ 1852  git remote add origin https://github.com/Gaita1083/git-basic-exercises.git
+ 1853  git branch -M main
+ 1854  git push -u origin main
+ 1855  https://github.com/Gaita1083/git-basic-exercises/network
+ 1856  https://github.com/Gaita1083/git-basic-exercises.git/network
+ 1857  git branch -M history
+ 1858  git push -u origin history
+ 1859  git pull
+ 1860  git push
+ 1861  git branch -M milkshake-flavours
+ 1862  git push -u origin milkshake-flavours
+ 1863  git checkout main
+ 1864  cd ../
+ 1865  https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1866  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+ 1867  ls
+ 1868  cd a-repo-to-clone
+ 1869  git branch
+ 1870  git log
+ 1871  git branch -a
+ 1872  git checkout a-branch-with-a-few-commits
+ 1873  git remote -v
+ 1874  git log
+ 1875  cd ..
+ 1876  cd git-basic-exercises
+ 1877  git log
+ 1878  cd ..
+ 1879  mkdir this-will-be-another-repo
+ 1880  cd this-will-be-another-repo
+ 1881  git init
+ 1882  touch README.md
+ 1883  git add README.md
+ 1884  git commit -m
+ 1885  cd ..
+ 1886  ls
+ 1887  cd git-basic-exercises
+ 1888  git log
+ 1889  touch ignore-me.db
+ 1890  git status
+ 1891  nano .gitignore
+ 1892  git status
+ 1893  mkdir large-directory-that-should-be-local-only
+ 1894  cd large-directory-that-should-be-local-only
+ 1895  touch README.md
+ 1896  nano README.md
+ 1897  cd ...
+ 1898  git status
+ 1899  cd git-basic-exercises
+ 1900  git status
+ 1901  nano .gitignore
+ 1902  git status
+ 1903  git add .gitignore
+ 1904  git commit -m "added .gitignore"
+ 1905  git push
+ 1906  git log
+ 1907  cd ..
+ 1908  cd Caswel-Ranoto-606-tilde-project-tutorial-how-repo-projects-work-
+ 1909  git log
+ 1910  git checkout -b continue
+ 1911  ls
+ 1912  git checkout markdown
+ 1913  ls
+ 1914  nano task1.py
+ 1915  git status
+ 1916  git checkout continue
+ 1917  ls
+ 1918  nano important.md
+ 1919  git add important.md
+ 1920  git commit -m "New branch to update importand.md"
+ 1921  git add .
+ 1922  git commit -m "first commit"
+ 1923  git push 
+ 1924  cd ..
+ 1925  /usr/local/bin/python3 /Users/caswelranoto/Documents/task.py
+ 1926  git checkout -b person
+ 1927  touch person.py
+ 1928  git add person.py
+ 1929  git commit -m "Added person.py"
+ 1930  git checkout main
+ 1931  cd ...
+ 1932  cd umuzi_camp
+ 1933  ls
+ 1934  cd Caswel-Ranoto-223-person-python
+ 1935  ls
+ 1936  git log
+ 1937  git checkout person
+ 1938  git add person.py
+ 1939  git commit -m "Added class Person"
+ 1940  git push origin -u person
+ 1941  git add person.py
+ 1942  git commit -m "Added class Person"
+ 1943  git push origin -u person
+ 1944  git checkout task/2
+ 1945  git checkout main
+ 1946  git log
+ 1947  git checkout task/2
+ 1948  git status
+ 1949  git checkout main
+ 1950  git pull
+ 1951  git checkout task/7
+ 1952  git add task7.py
+ 1953  git commit -m "Updating task7"
+ 1954  git push origin -u task/7
+ 1955  git pull task/7
+ 1956  git pull task7.py
+ 1957  git pull origin task/7
+ 1958  clear
+ 1959  git checkout task/7
+ 1960  git status
+ 1961  git add task7.py
+ 1962  git commit -m "Changes to the names"
+ 1963  git push origin -u task/7
+ 1964  git checkout task/7
+ 1965  git pull origin task/7
+ 1966  git checkout main
+ 1967  git log
+ 1968  clear
+ 1969  git checout main
+ 1970  git checkout main
+ 1971  git pull
+ 1972  git checkout task/7
+ 1973  git add task7.py
+ 1974  git commit -m "Requested changes of naming"
+ 1975  git push 
+ 1976  git push --set-upstream origin task/7
+ 1977  git push origin task/7
+ 1978  git init
+ 1979  cd desktop/umuzi_camp
+ 1980  ls -a
+ 1981  cd Caswel-Ranoto-223-person-python
+ 1982  ls -a
+ 1983  cat person.py
+ 1984  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-223-person-python/p.py
+ 1985  git checkout person
+ 1986  git add person.py
+ 1987  git status
+ 1988  git commit -m "Changes made"
+ 1989  git push origin -u person
+ 1990  git checkout main
+ 1991  cd ..
+ 1992  ls -a
+ 1993  cd Caswel-Ranoto-219-level-1-programming-katas-python
+ 1994  git status
+ 1995  git add task7.py
+ 1996  git status
+ 1997  git stauts
+ 1998  git add task7.py
+ 1999  git status
+ 2000  git commit -m "changes to rejected PR"
+ 2001  git push origin -u task/7
+ 2002  git pull origin task/7\n
+ 2003  git push origin task/7\n
+ 2004  cd desktop/umuzi_camp
+ 2005  ls -a
+ 2006  cd Caswel-Ranoto-219-level-1-programming-katas-python
+ 2007  git checkout main
+ 2008  git status
+ 2009  git checkout task/7
+ 2010  git status
+ 2011  ls -a
+ 2012  cat task7.py
+ 2013  git add task7.py
+ 2014  git status
+ 2015  git commit -m "modified file"
+ 2016  git push origin -u task/7
+ 2017  git pull
+ 2018  git pull origin task/7
+ 2019  /usr/local/bin/python3 /Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python/task7.py
+ 2020  cd ..
+ 2021  ls -a 
+ 2022  cd Caswel-Ranoto-223-person-python
+ 2023  git checkout main
+ 2024  git checkout person
+ 2025  git checkout main
+ 2026  git pull
+ 2027  git checkout person
+ 2028  git checkout main
+ 2029  git pull
+ 2030  git checkout -b person
+ 2031  git checkout person
+ 2032  git add person.py
+ 2033  git status
+ 2034  ls -a
+ 2035  cat person.py
+ 2036  nano person.py
+ 2037  cat person.py
+ 2038  git add person.py
+ 2039  git commit -m "Modified the file"
+ 2040  git push origin -u person
+ 2041  cd ..
+ 2042  ls -a
+ 2043  cd Caswel-Ranoto-219-level-1-programming-katas-python
+ 2044  git checkout main
+ 2045  git status
+ 2046  git checkout task/7
+ 2047  ls -a
+ 2048  cat task7.py
+ 2049  git add task7.py
+ 2050  git commit -m "Modified task"
+ 2051  git push origin -u task/7
+ 2052  git checkout main
+ 2053  git status
+ 2054  ls -a
+ 2055  cat task7.py
+ 2056  code .
+ 2057  nano task7.py
+ 2058  git rm task7.py
+ 2059  git commit -m "Deleted task7.py"
+ 2060  git push origin task/7
+ 2061  /usr/bin/git -C "/Users/caswelranoto/Desktop/UMUZI_CAMP/Caswel-Ranoto-219-level-1-programming-katas-python" -c "core.editor=code --wait --reuse-window" reset --hard 4f404ceb72be1f51afb84263ed6bd8e29b389314
+ 2062  git push -f origin task/7\n
+ 2063  cd desktop/umuzi_camp
+ 2064  ls -a
+ 2065  cd Caswel-Ranoto-223-person-python
+ 2066  git checkout main
+ 2067  git checkout person
+ 2068  git add person.py
+ 2069  git commit -m "Requested changes"
+ 2070  git push origin -u person
+ 2071  cd ...
+ 2072  cd umuzi_camp
+ 2073  ls -a
+ 2074  git rm -r git-basic-exercises
+ 2075  cd git-basic-exercises
+ 2076  git rm -r git-basic-exercises
+ 2077  ls -a
+ 2078  git checkout history
+ 2079  ls -a
+ 2080  cd ..
+ 2081  ls -a
+ 2082  mkdir git-basic-exercises
+ 2083  cd git-basic-exercises
+ 2084  ls -a
+ 2085  git init
+ 2086  ls -a 
+ 2087  git staus
+ 2088  git status
+ 2089  touch README.md
+ 2090  git ls -a
+ 2091  ls -a
+ 2092  git status
+ 2093  git log
+ 2094  git add README.md
+ 2095  git log
+ 2096  cd ..
+ 2097  cd desktop/umuzi_camp
+ 2098  ls -a
+ 2099  clear
+ 2100  mkdir git-basic-exercises
+ 2101  cd git-basic-exercises
+ 2102  ls -a
+ 2103  git init
+ 2104  ls -a
+ 2105  git status
+ 2106  touch README.md
+ 2107  ls -a
+ 2108  git status
+ 2109  git log
+ 2110  git add README.md
+ 2111  git status
+ 2112  git git reset HEAD README.md\n
+ 2113  git reset HEAD README.md\n
+ 2114  git reset README.md\n
+ 2115  git status
+ 2116  git add README.md
+ 2117  git status
+ 2118  git commit -m "initial commit"
+ 2119  git log
+ 2120  nano README.md
+ 2121  cat README.md
+ 2122  git add README.md
+ 2123  git commit -m "second commit"
+ 2124  nano README.md
+ 2125  cat README.md
+ 2126  git add README.md
+ 2127  git commit -m "third commit"
+ 2128  git log
+ 2129  git checkout 1d1227a56d37f90665c32a094f2bee7fb0a2b429
+ 2130  cat README.md
+ 2131  git checkout main
+ 2132  cat README.md
+ 2133  git branch
+ 2134  git checkout -b milkshake-flavours
+ 2135  git branch
+ 2136  git checkout main
+ 2137  git branch
+ 2138  git checkout milkshake-flavours
+ 2139  nano milkshake.md
+ 2140  git status
+ 2141  cat milkshake.md
+ 2142  mv milkshake.md milkshakes.md
+ 2143  cat milkshakes.md
+ 2144  git status
+ 2145  git add milkshakes.md
+ 2146  git commit -m "added initial flavours"
+ 2147  git log
+ 2148  git status
+ 2149  git checkout main
+ 2150  git log
+ 2151  git checkout -b history
+ 2152  git log
+ 2153  git branch
